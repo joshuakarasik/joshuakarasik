@@ -10,15 +10,15 @@ I love technology and focus on creating software that's both easy and enjoyable 
 #### Favorite songs right now:
 
 <a href="https://open.spotify.com/track/songid1">
-  <img src="[https://github.com/joshuakarasik/joshuakarasik/blob/main/michael-bolton.jpg?raw=true](https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg)" width="200" alt="How Am I Supposed to Live Without You" />
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg" width="200" alt="How Am I Supposed to Live Without You" />
 </a>
 
 <a href="https://open.spotify.com/track/songid2">
-  <img src="[https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy-zucker.jpg?raw=true](https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg)" width="200" alt="Supercuts" />
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg" width="200" alt="Supercuts" />
 </a>
 
 <a href="https://open.spotify.com/track/songid3">
-  <img src="[https://github.com/joshuakarasik/joshuakarasik/blob/main/chris-lake-aluna.jpg?raw=true](https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg)" width="200" alt="Beggin'" />
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="200" alt="Beggin'" />
 </a>
 
 
