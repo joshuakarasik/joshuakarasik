@@ -9,21 +9,18 @@ I love technology and focus on creating software that's both easy and enjoyable 
 
 #### Favorite songs right now:
 
-<p>
-  <a href="https://open.spotify.com/track/3RMe0etCdXtthhQk0cIPluz?si=844b883a95204074">
-    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/michael%20bolton.jpeg?raw=true" width="300" alt="How Am I Supposed to Live Without You by Michael Bolton">
-  </a>
-</p>
-<p>
-  <a href="https://open.spotify.com/track/4PyMK7Jtuc6l3D0BKogokR?si=05bd37ff7f43477c">
-    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/jeremy%20zucker.jpeg?raw=true" width="300" alt="Supercuts by Jeremy Zucker">
-  </a>
-</p>
-<p>
-  <a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=7ae72d95301f43de">
-    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/beggin.jpeg?raw=true" width="300" alt="Beggin' by Chris Lake & Aluna">
-  </a>
-</p>
+<a href="https://open.spotify.com/track/songid1">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael-bolton.jpg?raw=true" width="200" alt="How Am I Supposed to Live Without You" />
+</a>
+
+<a href="https://open.spotify.com/track/songid2">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy-zucker.jpg?raw=true" width="200" alt="Supercuts" />
+</a>
+
+<a href="https://open.spotify.com/track/songid3">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/chris-lake-aluna.jpg?raw=true" width="200" alt="Beggin'" />
+</a>
+
 
 
 
