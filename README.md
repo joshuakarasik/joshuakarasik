@@ -36,9 +36,9 @@ I love technology and focus on creating software that's both easy and enjoyable 
 
 #### Connect with me:
 <p>
-  <a href="https://instagram.com/josh.karasik">
-    <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/yourusername?color=orange&logo=twitter&style=flat-square">
-  </a>
+ <a href="https://instagram.com/josh.karasik">
+  <img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=orange">
+</a>
   <a href="https://linkedin.com/in/joshuakarasik">
     <img alt="LinkedIn Connect" src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin">
   </a>
