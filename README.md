@@ -21,6 +21,17 @@ I love technology and focus on creating software that's both easy and enjoyable 
   <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" />
 </a>
 
+<p align="center">
+  <a href="https://instagram.com/josh.karasik">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourusername?color=orange&logo=twitter&style=flat-square">
+  </a>
+  <a href="https://linkedin.com/in/joshuakarasik">
+    <img alt="LinkedIn Connect" src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:joshuakarasik@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Me-black?style=flat-square&logo=gmail&color=orange">
+  </a>
+</p>
 
 
 
