@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi, I'm Josh Karasik 👋
+
+I love technology and focus on creating software that's both easy and enjoyable to use. My work involves developing systems that are innovative, user-friendly, and engaging. I'm dedicated to using my skills to help shape a future where technology is both advanced and accessible to everyone!
+
+#### About me:
+* Coffee Addict
+* Music fanatic
+* Gym bro
+
+#### Favorite songs right now:
+
+
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
 <!--
