@@ -10,15 +10,15 @@ I love technology and focus on creating software that's both easy and enjoyable 
 #### Favorite songs right now:
 
 <a href="https://open.spotify.com/track/songid1">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg" width="200" alt="How Am I Supposed to Live Without You" />
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg" width="150" alt="How Am I Supposed to Live Without You" />
 </a>
 
 <a href="https://open.spotify.com/track/songid2">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg" width="200" alt="Supercuts" />
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg" width="150" alt="Supercuts" />
 </a>
 
-<a href="https://open.spotify.com/track/songid3">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="200" alt="Beggin'" />
+<a href="[https://open.spotify.com/track/songid3](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=e9c62a5a1c864e0d)">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" />
 </a>
 
 
