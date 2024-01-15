@@ -1,4 +1,4 @@
-## Hi, I'm Josh Karasik 👋
+  ## Hi, I'm Josh Karasik 👋
 
 I love technology and focus on creating software that's both easy and enjoyable to use. My work involves developing systems that are innovative, user-friendly, and engaging. I'm dedicated to using my skills to help shape a future where technology is both advanced and accessible to everyone!
 
@@ -22,15 +22,15 @@ I love technology and focus on creating software that's both easy and enjoyable 
 #### Favorite songs right now:
 
 <a href="https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz?si=a0dd2f82158641af" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg" width="150" alt="How Am I Supposed to Live Without You" style="border: 2px solid #color; border-radius: 10px;"/>
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg" width="150" alt="How Am I Supposed to Live Without You" style="border: 2px solid #000000; border-radius: 10px;"/>
 </a>
 
 <a href="https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR?si=d8c8218bd7054a15" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg" width="150" alt="Supercuts" style="border: 2px solid #color; border-radius: 10px;"/>
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg" width="150" alt="Supercuts" style="border: 2px solid #000000; border-radius: 10px;"/>
 </a>
 
 <a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=443d1dfd1fa44a83" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" style="border: 2px solid #color; border-radius: 10px;"/>
+  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" style="border: 2px solid #000000; border-radius: 10px;"/>
 </a>
 
 
