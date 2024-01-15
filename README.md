@@ -8,9 +8,22 @@ I love technology and focus on creating software that's both easy and enjoyable 
 * Gym bro
 
 #### Favorite songs right now:
-[![How Am I Supposed to Live Without You](https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg?raw=true)](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz?si=844b883a95204074)
-[![Supercuts](https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg?raw=true)](https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR?si=05bd37ff7f43477c)
-[![Beggin'](https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg?raw=true)](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=7ae72d95301f43de)
+
+<p>
+  <a href="https://open.spotify.com/track/3RMe0etCdXtthhQk0cIPluz?si=844b883a95204074">
+    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/michael%20bolton.jpeg?raw=true" width="100" alt="Michael Bolton">
+  </a>
+</p>
+<p>
+  <a href="https://open.spotify.com/track/4PyMK7Jtuc6l3D0BKogokR?si=05bd37ff7f43477c">
+    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/jeremy%20zucker.jpeg?raw=true" width="100" alt="Jeremy Zucker">
+  </a>
+</p>
+<p>
+  <a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=7ae72d95301f43de">
+    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/beggin.jpeg?raw=true" width="100" alt="Beggin">
+  </a>
+</p>
 
 
 
