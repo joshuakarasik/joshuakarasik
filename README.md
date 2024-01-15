@@ -21,8 +21,21 @@ I love technology and focus on creating software that's both easy and enjoyable 
   <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" />
 </a>
 
+#### My Languages:
+<p>
+  <!-- HTML Badge -->
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange" />
+  <!-- CSS Badge -->
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=orange" />
+  <!-- JavaScript Badge -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=orange" />
+  <!-- React Badge -->
+  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=orange" />
+</p>
+
+
 #### Connect with me:
-<p align="center">
+<p>
   <a href="https://instagram.com/josh.karasik">
     <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/yourusername?color=orange&logo=twitter&style=flat-square">
   </a>
