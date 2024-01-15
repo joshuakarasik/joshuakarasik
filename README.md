@@ -11,19 +11,20 @@ I love technology and focus on creating software that's both easy and enjoyable 
 
 <p>
   <a href="https://open.spotify.com/track/3RMe0etCdXtthhQk0cIPluz?si=844b883a95204074">
-    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/michael%20bolton.jpeg?raw=true" width="100" alt="Michael Bolton">
+    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/michael%20bolton.jpeg?raw=true" width="100" alt="How Am I Supposed to Live Without You">
   </a>
 </p>
 <p>
   <a href="https://open.spotify.com/track/4PyMK7Jtuc6l3D0BKogokR?si=05bd37ff7f43477c">
-    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/jeremy%20zucker.jpeg?raw=true" width="100" alt="Jeremy Zucker">
+    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/jeremy%20zucker.jpeg?raw=true" width="100" alt="Supercuts">
   </a>
 </p>
 <p>
   <a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=7ae72d95301f43de">
-    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/beggin.jpeg?raw=true" width="100" alt="Beggin">
+    <img src="https://github.com/joshuakarasi/joshuakarasi/blob/main/beggin.jpeg?raw=true" width="100" alt="Beggin'">
   </a>
 </p>
+
 
 
 
