@@ -2,6 +2,18 @@
 
 I love technology and focus on creating software that's both easy and enjoyable to use. My work involves developing systems that are innovative, user-friendly, and engaging. I'm dedicated to using my skills to help shape a future where technology is both advanced and accessible to everyone!
 
+#### My Languages:
+<p>
+  <!-- HTML Badge -->
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange" />
+  <!-- CSS Badge -->
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=orange" />
+  <!-- JavaScript Badge -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=orange" />
+  <!-- React Badge -->
+  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=orange" />
+</p>
+
 #### About me:
 * Coffee addict☕️
 * Piano player🎹
@@ -20,18 +32,6 @@ I love technology and focus on creating software that's both easy and enjoyable 
 <a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=443d1dfd1fa44a83" target="_blank">
   <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" />
 </a>
-
-#### My Languages:
-<p>
-  <!-- HTML Badge -->
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange" />
-  <!-- CSS Badge -->
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=orange" />
-  <!-- JavaScript Badge -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=orange" />
-  <!-- React Badge -->
-  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=orange" />
-</p>
 
 
 #### Connect with me:
