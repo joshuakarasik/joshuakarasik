@@ -3,38 +3,35 @@
 I love technology and focus on creating software that's both easy and enjoyable to use. My work involves developing systems that are innovative, user-friendly, and engaging. I'm dedicated to using my skills to help shape a future where technology is both advanced and accessible to everyone!
 
 #### My Languages:
-<p>
-  <!-- HTML Badge -->
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange" />
-  <!-- CSS Badge -->
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=orange" />
-  <!-- JavaScript Badge -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=orange" />
-  <!-- React Badge -->
-  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=orange" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4CAF50?style=for-the-badge&logo=code&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=code&logoColor=white)
 
-#### About me:
+#### 🚀 About me:
 * Coffee addict☕️
 * Piano player🎹
 * Gym bro🏋️
 
-#### Favorite songs right now:
-
-<a href="https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz?si=a0dd2f82158641af" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/michael%20bolton.jpeg" width="150" alt="How Am I Supposed to Live Without You" style="border: 2px solid #000000; border-radius: 10px;"/>
+#### 🎧 Favorite songs right now:
+<a href="https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB?si=2bea7530dea84838" target="_blank">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/assets/150744888/92efda49-b69a-4139-b71e-42ad26cb1ff7" width="150" alt="BIRDS OF A FEATHER" style="border: 2px solid #000000; border-radius: 10px;"/>
 </a>
 
-<a href="https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR?si=d8c8218bd7054a15" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/jeremy%20zucker.jpeg" width="150" alt="Supercuts" style="border: 2px solid #000000; border-radius: 10px;"/>
+<a href="https://open.spotify.com/track/6zxc5ou4H2gxJwCF76hzvV?si=4ed57700a0404751" target="_blank">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/assets/150744888/70af8af9-abe3-407a-b1d7-774314686708" width="150" alt="OK" style="border: 2px solid #000000; border-radius: 10px;"/>
 </a>
 
-<a href="https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=443d1dfd1fa44a83" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/blob/main/beggin.jpeg" width="150" alt="Beggin'" style="border: 2px solid #000000; border-radius: 10px;"/>
+<a href="https://open.spotify.com/track/7BgGj9choLPeJJOflkaAhB?si=37ff4cb60bf84b02" target="_blank">
+  <img src="https://github.com/joshuakarasik/joshuakarasik/assets/150744888/41dc94d4-bac0-40bd-8388-06dbf91b55f1" width="150" alt="Do You Know Me?'" style="border: 2px solid #000000; border-radius: 10px;"/>
 </a>
 
 
-#### Connect with me:
+#### 📫 Connect with me:
 <p>
  <a href="https://instagram.com/josh.karasik" target="_blank">
   <img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=orange">
@@ -47,11 +44,17 @@ I love technology and focus on creating software that's both easy and enjoyable 
   </a>
 </p>
 
+### 📈 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuakarasik&theme=radical)
+
 
 
 
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
+
+
+
 <!--
 **joshuakarasik/joshuakarasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
