@@ -2,7 +2,7 @@
 
 I love technology and focus on creating software that's both easy and enjoyable to use. My work involves developing systems that are innovative, user-friendly, and engaging. I'm dedicated to using my skills to help shape a future where technology is both advanced and accessible to everyone!
 
-#### My Languages:
+#### My Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
