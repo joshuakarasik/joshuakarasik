@@ -1,5 +1,5 @@
 ## Hi, I'm Josh Karasik 👋
-![Animated Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Learning+and+Building)
+![Animated Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0078D4&width=435&lines=I'm+Josh+Karasik;Front+End+Developer;Tech+Enthusiast;Learning+and+Building)
 
 I love technology and focus on creating software that's both easy and enjoyable to use. My work involves developing systems that are innovative, user-friendly, and engaging. I'm dedicated to using my skills to help shape a future where technology is both advanced and accessible to everyone!
 
