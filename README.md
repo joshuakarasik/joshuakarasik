@@ -14,26 +14,6 @@ I love technology and focus on creating software that's both easy and enjoyable 
 ![Algorithms](https://img.shields.io/badge/Algorithms-4CAF50?style=for-the-badge&logo=code&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=code&logoColor=white)
 
-#### 🚀 About me:
-* Coffee addict☕️
-* Piano player🎹
-* Gym bro🏋️
-
-#### 🎧 Favorite songs right now:
-<a href="https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB?si=2bea7530dea84838" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/assets/150744888/92efda49-b69a-4139-b71e-42ad26cb1ff7" width="150" height="150" alt="BIRDS OF A FEATHER" style="border: 2px solid #000000; border-radius: 10px;"/>
-</a>
-
-<a href="https://open.spotify.com/track/6zxc5ou4H2gxJwCF76hzvV?si=4ed57700a0404751" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/assets/150744888/70af8af9-abe3-407a-b1d7-774314686708" width="150" height="150" alt="OK" style="border: 2px solid #000000; border-radius: 10px;"/>
-</a>
-
-<a href="https://open.spotify.com/track/7BgGj9choLPeJJOflkaAhB?si=37ff4cb60bf84b02" target="_blank">
-  <img src="https://github.com/joshuakarasik/joshuakarasik/assets/150744888/41dc94d4-bac0-40bd-8388-06dbf91b55f1" width="150" height="150" alt="Do You Know Me?'" style="border: 2px solid #000000; border-radius: 10px;"/>
-</a>
-
-
-
 #### 📫 Connect with me:
 <p>
  <a href="https://instagram.com/josh.karasik" target="_blank">
