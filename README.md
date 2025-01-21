@@ -34,7 +34,7 @@ I love technology and focus on creating software that's both easy and enjoyable 
   </a>
 </p>
 
-### 📈 Activity Graph:
-![Contribution Snake](https://github.com/joshuakarasik/joshuakarasik/blob/output/github-contribution-grid-snake.svg)
+### 🌇 GitHub Skyline:
+[Check out my 3D GitHub Skyline](https://skyline.github.com/joshuakarasik/2023)
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
