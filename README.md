@@ -34,7 +34,9 @@ I love technology and focus on creating software that's both easy and enjoyable 
   </a>
 </p>
 
-### 🌇 GitHub Skyline:
-[Check out my 3D GitHub Skyline](https://skyline.github.com/joshuakarasik/2023)
+### Currently Working On:
+- 🔭 AI-powered smart email responder application/plug-in.
+- 🧑‍💻 Version 2 of my Code Complexity Analyzer to help devs understand and write more efficient algorithms.
+- ☕ How to pull the best shot of espresso possible.
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
