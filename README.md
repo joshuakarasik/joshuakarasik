@@ -35,6 +35,6 @@ I love technology and focus on creating software that's both easy and enjoyable 
 </p>
 
 ### 📈 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joshuakarasik&theme=radical)
+![Contribution Snake](https://github.com/joshuakarasik/joshuakarasik/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
