@@ -38,5 +38,8 @@ I love technology and focus on creating software that's both easy and enjoyable 
 - 🔭 AI-powered smart email responder application/plug-in.
 - 🧑‍💻 Version 2 of my Code Complexity Analyzer to help devs understand and write more efficient algorithms.
 - ☕ How to pull the best shot of espresso possible.
+- 
+### 🌍 Visitor Map:
+![Visitor Map](https://visitormap.vercel.app/api/map?username=joshuakarasik)
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
