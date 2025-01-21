@@ -40,6 +40,6 @@ I love technology and focus on creating software that's both easy and enjoyable 
 - ☕ How to pull the best shot of espresso possible.
 - 
 ### 🌍 Visitor Map:
-![Visitor Map](https://visitormap.vercel.app/api/map?username=joshuakarasik)
+[![Visitor Map](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=[https%3A%2F%2Fgithub.com%2Fjoshuakarasik](https://github.com/joshuakarasik)&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
