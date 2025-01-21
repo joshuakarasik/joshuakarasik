@@ -34,7 +34,7 @@ I love technology and focus on creating software that's both easy and enjoyable 
   </a>
 </p>
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuakarasik&show_icons=true&theme=radical)
+### 📈 Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joshuakarasik&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
