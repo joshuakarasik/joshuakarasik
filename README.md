@@ -44,8 +44,8 @@ I love technology and focus on creating software that's both easy and enjoyable 
 </p>
 
 ### Currently Working On:
-- 🔭 AI-powered smart email responder application/plug-in.
-- 🧑‍💻 Version 2 of my Code Complexity Analyzer to help devs understand and write more efficient algorithms.
-- ☕ How to pull the best shot of espresso possible.
+- 👨‍💻 Full-time Software Engineer driving impactful solutions across automation and intelligent systems.
+- 🚀 Founding Engineer of an AI-powered application built on a proprietary model I personally created and trained — the first of its kind in its space.
+- ☕ Perfecting the art of espresso, one shot at a time.
 
 ![](https://komarev.com/ghpvc/?username=jioshuakarasik&color=blue)
